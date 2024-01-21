@@ -11,6 +11,10 @@ h1 {
     margin: auto;
 }
 
+h2 {
+    text-shadow: -10px 5px 0px blue;
+}
+
 ul {
     list-style: none;
 }
