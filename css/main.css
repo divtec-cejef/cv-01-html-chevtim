@@ -7,4 +7,10 @@ h1 {
     color :white;
     background-color: black;
     border-bottom: 5px solid white;
+    width : 25%;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
 }
