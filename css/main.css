@@ -10,7 +10,16 @@ h1 {
     width : 25%;
     margin: auto;
 }
+a {
+    color: black ;
+    text-decoration: none;
+}
+#navigation {
 
+    background-color: red;
+}
+
+}
 ul {
     list-style: none;
 }
