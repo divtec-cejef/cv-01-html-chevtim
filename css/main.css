@@ -1,5 +1,9 @@
 html {
-    color:blue;
-    background-color: black;
+    text-align: center;
 }
 
+h1 {
+    color :white;
+    background-color: black;
+    border-bottom: 5px solid white;
+}
